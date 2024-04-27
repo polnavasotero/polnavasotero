@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pol Navas Otero</h1>
-<h3 align="center">A young passionate UI developer from Spain</h3>
+<h3 align="center">In a UI learning journey from Spain</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=polnavasotero&label=Profile%20views&color=0e75b6&style=flat" alt="polnavasotero" /> </p>
 
