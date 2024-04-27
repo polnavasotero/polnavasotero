@@ -39,16 +39,18 @@
 ## Connect with me  
 
 <div align="center">
-  <a href="https://github.com/polnavasotero" target="_blank">
-    <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin-bottom: 5px;" />
+  <a href="https://github.com/polnavasotero" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/GitHub-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin: 5px; border-radius: 5px;"/>
   </a>
-  <a href="mailto:polnavasotero@gmail.com">
-    <img src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="margin-bottom: 5px;" />
+  <a href="mailto:polnavasotero@gmail.com" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="margin: 5px; border-radius: 5px;"/>
   </a>
-  <a href="https://linkedin.com/in/polnavasotero" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-bottom: 5px;" />
+  <a href="https://linkedin.com/in/polnavasotero" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/LinkedIn-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin: 5px; border-radius: 5px;"/>
   </a>  
 </div>
+
+
 
 ## GitHub Stats  
 
